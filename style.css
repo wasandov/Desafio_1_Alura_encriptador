@@ -1,0 +1,21 @@
+main{
+    display: flex;
+    margin-left: 80px;
+    margin-bottom: 50px;
+}
+body{
+    background-image: url(/Imagenes/Fondo.jpg);
+}
+button{
+    color:#fff;
+    text-decoration:none;
+    padding:20px 40px;
+    border:1px solid #000;
+    display:block;
+    width:200px;
+    text-align:center;
+    margin:50px;
+    background-color:#bb00bb;
+    border-radius:50%;
+    box-shadow:3px 2px 5px 1px #ccc;
+}
